@@ -97,11 +97,10 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
-![robo1](./robo1.jpg)
-![robo2](./robo2.jpg)
-![robo3](./robo3.jpg)
-![robo4](./robo4.jpg)
+![robo1](https://github.com/thejaswinidhanaraj/mobilerobot-openloopcontrol/assets/148514511/b82c01da-ebc6-4af7-9e84-bdb1cffb9ea5)
+![robo2](https://github.com/thejaswinidhanaraj/mobilerobot-openloopcontrol/assets/148514511/f00caa0f-b91f-4a71-8db6-875bde63158c)
+![robo3](https://github.com/thejaswinidhanaraj/mobilerobot-openloopcontrol/assets/148514511/f22ad7ed-4ce1-41e3-86ba-93d0de1cfcdc)
+![robo4](https://github.com/thejaswinidhanaraj/mobilerobot-openloopcontrol/assets/148514511/0544bca5-160e-4a92-8893-00721ea126a7)
 
 
 <br/>
@@ -114,7 +113,6 @@ https://youtu.be/dUtd1FnMlwY?si=_v3S-ukKMnpdri4x
 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
 
 <br/>
 <br/>
